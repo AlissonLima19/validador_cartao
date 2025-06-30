@@ -15,7 +15,6 @@ Copiar
 Editar
 credit-card-checker/
 
-│
 ├── index.html
 
 ├── script.js
