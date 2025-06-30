@@ -14,7 +14,10 @@ plaintext
 Copiar
 Editar
 credit-card-checker/
+
 │
 ├── index.html
+
 ├── script.js
+
 └── style.css
